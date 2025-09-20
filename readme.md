@@ -14,7 +14,7 @@ End-to-end ETH Vault:
 ## Run locally
 ### Run
 
-### Smart contract
+## Smart contract
 ```bash
 cd vault-foundry
 forge test -vv
