@@ -12,7 +12,9 @@ End-to-end ETH Vault:
 - `vault-frontend/` – React app (connect, balances, TVL, deposit/withdraw, event-driven refresh).
 
 ## Run locally
-### Contracts
+### Run
+
+### Smart contract
 ```bash
 cd vault-foundry
 forge test -vv
