@@ -1,0 +1,12 @@
+node_modules
+dist
+
+out
+cache
+broadcast
+
+.env
+vault-frontend/.env
+vault-foundry/.env
+
+.DS_Store
